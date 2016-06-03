@@ -3,6 +3,7 @@
 *-bak
 *-cache.lib
 _autosave*
+*.net
 
 /gerbers
 
