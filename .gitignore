@@ -1,3 +1,10 @@
 
 *.bak
 *-bak
+*-cache.lib
+_autosave*
+
+/gerbers
+
+#See list here
+#http://downloads.qi-hardware.com/people/werner/fisl13.pdf
